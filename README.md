@@ -4,4 +4,5 @@
 ## 环境配置
 ```Shell
 pip install -r requirements.txt
+pip install -U sentence-transformers
 ```
