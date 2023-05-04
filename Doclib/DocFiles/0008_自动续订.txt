@@ -1,0 +1,4 @@
+1.移动云官网https://ecloud.10086.cn/home/，完成用户登录。
+2.进入到云空间管理控制台页面https://console.ecloud.10086.cn/api/page/ecpan/op-storage-static/CIDC-RP-00/space?v=new&productType=netdisk，找到对应订单并选中【更多】> 【配置续订方式】按钮。
+3.客户可选择是否开启自动续订。如开启自动续订，包年订单可选择续订周期，包月仅支持按月自动续订。
+4.点击确定，控制台列表中显示续订方式为自动续订。
