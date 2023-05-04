@@ -10,8 +10,8 @@ pip install -U sentence-transformers
 
 ## 模型下载
 通过网盘下载GLM6B离线模型和语义搜索模型：
-* GLM6B离线模型：
-* text2vec离线模型：
+* GLM6B离线模型：链接：https://pan.baidu.com/s/1avLpfjI50B-SHpibj2IijA 提取码：gr25 
+* text2vec离线模型：链接：https://pan.baidu.com/s/1L99LQmJwmvcGs9FZ7LbyyQ 提取码：5dhi 
 
 将模型放在如下目录：
 ```
