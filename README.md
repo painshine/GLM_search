@@ -7,3 +7,7 @@
 pip install -r requirements.txt
 pip install -U sentence-transformers
 ```
+
+## 模型下载
+* GLM6B离线模型：
+* text2vec离线模型：
