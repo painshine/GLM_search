@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer,util
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 # Load Model
-m = SentenceTransformer("../text2vec/")
+m = SentenceTransformer("./text2vec/")
 
 ## Lib Embeddings
 from Doclib.load_Filelist import filelist
