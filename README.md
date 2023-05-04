@@ -24,3 +24,8 @@ pip install -U sentence-transformers
     ├───...
     └───requirements.txt
 ```
+
+## 快速使用Demo
+```Shell
+python client.py
+```
