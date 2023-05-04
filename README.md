@@ -25,7 +25,19 @@ pip install -U sentence-transformers
     └───requirements.txt
 ```
 
+## 知识库配置
+知识库目录：./Doclib/DocFiles/
+知识库格式：
+```
+────DocFiles
+    ├───0000_知识库标题1.txt
+    ├───0001_知识库标题2.txt
+    ├───0002_知识库标题3.txt
+    ├───...
+```
+
 ## 快速使用Demo
+注意：本Demo只搜索知识库标题，未搜索知识库内容，可根据具体需求稍作改动。
 ```Shell
 python client.py
 ```
