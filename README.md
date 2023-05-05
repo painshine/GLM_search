@@ -27,6 +27,7 @@ pip install -U sentence-transformers
 
 ## 知识库配置
 知识库目录：./Doclib/DocFiles/
+
 知识库格式：
 ```
 ────DocFiles
